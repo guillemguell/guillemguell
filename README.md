@@ -1,7 +1,7 @@
 # Hi, I'm Guillem 👋
 
 Welcome to my little corner of GitHub — a space where I’m learning, experimenting, and growing in the world of **data science**.  
-My background in **physics** and **complex systems** shaped the way I see patterns and connections, and now I’m exploring how data can uncover meaningful stories and create real value — just in a new language: **data**.
+My background in **physics** and **complex systems** shaped the way I see patterns and connections, and now I’m exploring how data can uncover meaningful stories and create real value.
 
 ---
 
