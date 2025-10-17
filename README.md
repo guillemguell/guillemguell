@@ -44,16 +44,4 @@ If you’d like to see how I put my curiosity into practice, take a look at my p
 
 ---
 
-### 📫 Let’s connect
-
-You can view my professional profile here, feel free to reach out:
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/guillemguell" target="_blank">
-    <img src="https://i.sstatic.net/gVE0j.png" alt="LinkedIn" height="30"/>
-  </a>
-</p>
-
----
-
 ✨ _Thanks for visiting — I’m just getting started, and I’d love to share this learning journey with you._
