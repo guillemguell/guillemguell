@@ -7,9 +7,6 @@ My background in **physics** and **complex systems** shaped the way I see patter
 
 ### 🧭 A bit about me
 
-I’d describe myself as **empathic**, **patient**, **assertive**, **analytical**, and deeply **curious**.  
-I love learning, asking questions, and finding meaningful ways to connect insights from science to technology.  
-
 Right now, I’m focusing on:
 - Getting comfortable with the vast universe of **Data Science**  
 - Exploring **Deep Learning** and how it can reveal hidden stories in data  
