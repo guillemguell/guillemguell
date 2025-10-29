@@ -34,10 +34,8 @@ While I’ve worked with several languages, I’m focusing my future work on **P
 
 ### 🧠 Explore my work
 
-If you’d like to see how I put my curiosity into practice, take a look at my projects:  
-👉 [**Explore my projects →**](#)
+If you’d like to see how I put my curiosity into practice, take a look at [my projects](https://github.com/guillemguell/Data-Science-Portfolio).
 
-*(link this to your repositories or a “Projects” pinned section once you’re ready!)*  
 
 ---
 
